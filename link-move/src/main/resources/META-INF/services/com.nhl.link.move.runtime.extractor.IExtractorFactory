@@ -1,2 +1,3 @@
 com.nhl.link.move.runtime.jdbc.JdbcExtractorFactory
+com.nhl.link.move.runtime.cayenne.CayenneExtractorFactory
 com.nhl.link.move.runtime.xml.XmlExtractorFactory
